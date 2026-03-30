@@ -28,6 +28,14 @@ Each lab highlights practical concepts, commands used, and insights gained durin
   </li>
 </ul>
 
+<ul>
+  <li><a href="#cyber101">Cyber101</a>
+    <ul>
+      <li><a href="#windows-fundamentals">Windows Fundamentals</a></li>
+    </ul>
+  </li>
+</ul>
+
 <hr>
 
 <h2 id="cyber101">Cyber101</h2>
