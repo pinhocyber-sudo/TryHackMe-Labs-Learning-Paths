@@ -44,9 +44,9 @@ Focus: Command-line usage, file system navigation, permissions, and basic enumer
 </p>
 
 <ul>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab1.md">Lab 1 - Terminal Basics, File Navigation</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab2.md">Lab 2 - Loggin in with SSH, Advenced Commands</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab3.md">Lab 3 - Common Utilities, Daily Use of Linux OS</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab1-file-navigation">Lab 1 - Terminal Basics, File Navigation</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab2-advancedcommands">Lab 2 - Logging in with SSH, Advenced Commands</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab3-dailyuse">Lab 3 - Common Utilities, Daily Use of Linux OS</a></li>
 </ul>
 
 
