@@ -26,14 +26,9 @@ Each lab highlights practical concepts, commands used, and insights gained durin
       <li><a href="#linux-fundamentals">Linux Fundamentals</a></li>
     </ul>
   </li>
-</ul>
-
-<ul>
-  <li><a href="#cyber101">Cyber101</a>
     <ul>
       <li><a href="#windows-fundamentals">Windows Fundamentals</a></li>
     </ul>
-  </li>
 </ul>
 
 <hr>
@@ -51,7 +46,7 @@ Focus: Command-line usage, file system navigation, permissions, and basic enumer
 <ul>
   <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab1.md">Lab 1 - Terminal Basics, File Navigation</a></li>
   <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab2.md">Lab 2 - Loggin in with SSH, Advenced Commands</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab3.md">Lab 3 - Common Utilities + Daily Use of Linux OS</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentalslab3.md">Lab 3 - Common Utilities, Daily Use of Linux OS</a></li>
 </ul>
 
 
