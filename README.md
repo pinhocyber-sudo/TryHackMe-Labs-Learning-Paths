@@ -44,9 +44,9 @@ Focus: Command-line usage, file system navigation, permissions, and basic enumer
 </p>
 
 <ul>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab1-file-navigation">Lab 1 - Terminal Basics, File Navigation</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab2-advancedcommands">Lab 2 - Logging in with SSH, Advenced Commands</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab3-dailyuse">Lab 3 - Common Utilities, Daily Use of Linux OS</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab1-file-navigation.md">Lab 1 - Terminal Basics, File Navigation</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab2-advancedcommands.md">Lab 2 - Logging in with SSH, Advenced Commands</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/linuxfundamentals/lab3-dailyuse.md">Lab 3 - Common Utilities, Daily Use of Linux OS</a></li>
 </ul>
 
 
@@ -57,8 +57,8 @@ Focus: Navigation, Security Tools, Active Directory Basics.
 </p>
 
 <ul>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentalslab1.md">Lab 1 - Windows Desktop, NTFS File System, UAC, Control Panel</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentalslab2.md">Lab 2 - System Configuration, UAC Configuration, Resource Monitoring, Windows Registry</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentalslab3.md">Lab 3 - Windows Updates, Windows Security, Bitlocker</a></li>
-  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentalslab4.md">Lab 4 - Active Directory Concepts</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentals/lab1-windows-basics.md">Lab 1 - Windows Desktop, NTFS File System, UAC, Control Panel</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentals/lab2-system-configuration.md">Lab 2 - System Configuration, UAC Configuration, Resource Monitoring, Windows Registry</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentals/lab3-windows-security-basics.md">Lab 3 - Windows Updates, Windows Security, Bitlocker</a></li>
+  <li><a href="https://github.com/pinhocyber-sudo/cyber101/blob/main/windowsfundamentals/lab4-active-directory-basics.md">Lab 4 - Active Directory Concepts</a></li>
 </ul>
