@@ -41,6 +41,6 @@ Focus: Command-line usage, file system navigation, permissions, and basic enumer
 </p>
 
 <ul>
-  <li><a href="./Cyber101/Linux%20Fundamentals/lab1.md">Lab 1 - File Navigation</a></li>
+  <li><a href="./Cyber101/Linux%20Fundamentals/linuxfundamentalslab1.md">Lab 1 - File Navigation</a></li>
   <li><a href="./Cyber101/Linux%20Fundamentals/lab2.md">Lab 2 - Permissions</a></li>
 </ul>
